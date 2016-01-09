@@ -1,0 +1,40 @@
+{
+  "name": "is-incognito",
+  "version": "0.0.0",
+  "description": "Detects incognito mode.",
+  "license": "MIT",
+  "repository": "hemanth/is-incognito",
+  "author": {
+    "name": "Hemanth.HM",
+    "email": "hemanth.hm@gmail.com",
+    "url": "h3manth.com"
+  },
+  "engines": {
+    "node": ">=0.10.0"
+  },
+  "scripts": {
+    "test": "ava"
+  },
+  "files": [
+    "index.js"
+  ],
+  "keywords": [
+    "is-incognito",
+    "check",
+    "browser",
+    "private",
+    "browsering"
+  ],
+  "dependencies": {
+    "is-chrome": "^2.0.2"
+  },
+  "devDependencies": {
+    "ava": "^0.5.0",
+    "xo": "^0.11.2"
+  },
+  "xo": {
+    "ignores": [
+      "test.js"
+    ]
+  }
+}
