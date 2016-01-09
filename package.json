@@ -1,6 +1,6 @@
 {
   "name": "is-incognito",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "Detects incognito mode.",
   "license": "MIT",
   "repository": "hemanth/is-incognito",
